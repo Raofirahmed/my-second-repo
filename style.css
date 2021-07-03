@@ -1,0 +1,21 @@
+h1{
+    color: pink;
+    text-align: center;
+    font-weight: 900;
+    background-color: gray;
+    padding: 10px;
+    font-size: 100px;
+}
+h3{
+   font-size: 75px;
+   color: brown;
+   text-align: center;
+   text-decoration: underline; 
+}
+p{
+    font-size: 60px;
+    color: darkcyan;
+}
+#Aazan{
+    color: indigo;
+}
